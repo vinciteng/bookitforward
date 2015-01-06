@@ -1,0 +1,101 @@
+/*Turquoise color preset #89C4D6 */
+
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woo-mini-cart-container .cart-count,
+#site-navigation ul.main-menu li.new:after {
+	background: #89C4D6 !important;
+}
+
+a {
+	color: #89C4D6;
+}
+
+a:hover {
+	color: #757575;
+}
+
+button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	background: #89C4D6;
+	background-image: -moz-linear-gradient(top, #89c4d6 0%, #58b9da 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#89C4D6), color-stop(100%,#58B9DA));
+	background-image: -webkit-linear-gradient(top, #89C4D6 0%,#58B9DA 100%);
+	background-image: -o-linear-gradient(top, #89c4d6 0%,#58b9da 100%);
+	background-image: -ms-linear-gradient(top, #89c4d6 0%,#58b9da 100%);
+	background-image: linear-gradient(to bottom, #89C4D6 0%,#58B9DA 100%);
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	color: #FEFEFE;
+}
+
+button:hover,.button:hover,
+html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+	background: #89C4D6;
+	color: #fefefe;
+}
+
+.add_to_wishlist {
+	background-color: #F5F5F5;
+	background-image: -moz-linear-gradient(top, #f5f5f5 0%, #ededed 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F5F5F5), color-stop(100%,#EDEDED));
+	background-image: -webkit-linear-gradient(top, #F5F5F5 0%,#EDEDED 100%);
+	background-image: -o-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: -ms-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: linear-gradient(to bottom, #F5F5F5 0%,#EDEDED 100%);
+	border: 1px solid #D3D3D3;
+	color: #252525;
+	font-size: 13px;
+	text-shadow: none;
+}
+
+.add_to_wishlist:hover {
+	background-color: #F5F5F5;
+	color: #252525;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #89C4D6;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus {
+	background: #AFDFEE;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce-page .widget_layered_nav ul li.chosen a {
+	border: 1px solid #AFDFEE;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	background: #AFDFEE;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a:hover,
+.woocommerce-page .widget_layered_nav ul li.chosen a:hover {
+	background: #AFDFEE;
+}
+
+/* forum colors */
+
+.bbp-forum-header a.bbp-forum-permalink,
+.bbp-topic-header a.bbp-topic-permalink,
+.bbp-reply-header a.bbp-reply-permalink {
+	background: rgba(175, 223, 238, 0.35);
+}
+
+.bbp-forum-header a.bbp-forum-permalink:hover,
+.bbp-topic-header a.bbp-topic-permalink:hover,
+.bbp-reply-header a.bbp-reply-permalink:hover {
+	background: rgba(175, 223, 238, 1);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count > li a:after {
+	background: rgba(175, 223, 238, 0.75);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a,
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a:after,
+#bbpress-forums .bbp-forum-info-title .single-count li ul li.bbp-forum-reply-count-dropdown a {
+	background-color: #AFDFEE;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}

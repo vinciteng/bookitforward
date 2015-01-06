@@ -1,0 +1,63 @@
+--- Une Boutique 1.1 (1/23/2014) ---
+
+Catalog mode added
+
+--- Une Boutique 1.1.5 (1/24/2014) ---
+
+Minor CSS changes
+Removed a redundant footer div on boxed layout
+
+--- Une Boutique 1.2.1 (1/25/2014) ---
+
+Minor CSS fixes
+Fixed Header Style 2 mobile menu title positioning
+Improved cart and checkout styles on mobile devices
+
+--- Une Boutique 1.2.2 (1/26/2014) ---
+
+Google Analytics code will no longer track admin users
+
+--- Une Boutique 1.2.3 (1/29/2014) ---
+
+Fixed product and forum search forms styles in the drop down search widget area
+
+--- Une Boutique 1.3.0 (1/30/2014) ---
+
+Upgraded Theme Options Framework to it's latest version
+Added new feature: fixed background images for full width rows
+new home page template added
+new dummy-content.xml export
+
+--- Une Boutique 1.3.5 (1/30/2014) ---
+
+added a new header layout
+upgraded evnato wordpress toolkit plugin, it is now installed directly from github to stay updated automatically
+added new settings to customize main navigation typography
+wishlist table is now responsive and mobile optimized
+
+--- Une Boutique 1.3.6 (2/04/2014) ---
+
+Removed Dropdown cart widget when shop is set to catalog mode
+
+--- Une Boutique 1.3.6.1 (2/07/2014) ---
+
+Fixed a missing code in the footer when boxed layout is selected
+
+--- Une Boutique 1.4.0 (2/13/2014) ---
+
+Une Boutique Theme is now compatible with WooCommerce 2.1.1
+
+
+--- Une Boutique 1.4.1 (2/15/2014) ---
+
+Fixed main navigation naming classes
+Upgraded the rest of woocommerce template files to the latest version
+
+--- Une Boutique 1.4.2 (2/24/2014) ---
+Fixed woocommerce breadcrubms issue when there is only one product added
+fixed header style V3 issue for mobile devices
+fixed left sidebar page template issue
+fixed sidebar search forms on some page templates
+fixed text domain on mini cart file when cart is empty
+revised 404 page tempalte
+new language file

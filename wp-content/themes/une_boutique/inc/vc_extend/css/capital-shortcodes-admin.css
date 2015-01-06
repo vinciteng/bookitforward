@@ -1,0 +1,190 @@
+/* additional admin styles for VC */
+
+.wpb_content_element .wpb_vc_param_value.textarea {
+	font-family: "Open Sans",sans-serif;
+	border: none;
+	color: #444;
+	font-size: 13px;
+	line-height: normal;
+	padding: 0;
+}
+
+.modal-body {
+	padding: 20px !important;
+}
+
+.wpb-content-layouts li {
+	background: #f7f7f7; /* Old browsers */
+	border: 1px solid #d8d8d8;
+	margin: 0px 10px 10px 0;
+	border-radius: 3px;
+}
+
+.wpb_bootstrap_modals .wpb-elements-list-modal.modal {
+	width: 90%;
+	margin-left: -610px;
+}
+
+.modal-header {
+	padding: 20px 20px;
+	border-bottom: 1px solid #EEE;
+	background: #F7F7F7;
+	border-radius: 5px 5px 0 0;
+}
+
+.modal-header h3 {
+	font-size: 1.4em;
+	font-weight: normal;
+	color: #7A7A7A;
+}
+
+#vc_elements_name_filter {
+	background-position: 95% center;
+	position: absolute;
+	top: 7px;
+	right: 20px;
+	padding: 7px 10px;
+	min-width: 290px;
+
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.modal-header .close {
+	margin: 0;
+	background: #FEFEFE;
+	border: 1px solid #D8D8D8;
+	padding: 0px 6px;
+	font-size: 15px;
+	color: #252525;
+	border-radius: 100%;
+	position: absolute;
+	top: -5px;
+	left: -5px;
+	right: auto;
+	z-index: 999;
+}
+
+.modal-header .close:hover {
+	background: #f7f7f7;
+}
+
+.wpb_content_element > .wpb_element_wrapper {
+	height: auto;
+}
+
+.wpb_bootstrap_modals .wpb-content-layouts-container .isotope-filter {
+	background: #F7F7F7;
+	border: 1px solid #D8D8D8;
+	left: 2px;
+	position: relative;
+	margin-bottom: 20px !important;
+	border-radius: 5px;
+	padding: 15px 0;
+}
+
+.wpb_bootstrap_modals .wpb-content-layouts-container .isotope-filter li {
+	margin: 0;
+}
+
+.wpb_bootstrap_modals .wpb-content-layouts-container .isotope-filter li a {
+	border-radius: 5px 0 0 5px;
+	padding: 15px;
+	border-right: 1px solid #D8D8D8;
+}
+
+.wpb_bootstrap_modals .wpb-content-layouts-container .isotope-filter li.active a,
+.wpb_bootstrap_modals .wpb-content-layouts-container .isotope-filter li:hover a {
+	background-color: #fefefe;
+}
+
+.wpb-content-layouts-container .isotope-filter li a {
+	border-bottom: 0 none;
+	color: #9E9E9E;
+}
+
+.wpb-content-layouts-container a {
+	color: #47A3DA;
+}
+
+.wpb-content-layouts-container a:hover {
+	color: #D54E21;
+}
+
+.wpb-content-layouts-container .isotope-filter li a:active,
+.wpb-content-layouts-container .isotope-filter li a:focus {
+	border-bottom: 0 none;
+	outline: none;
+}
+
+.wpb_templates_ul .wpb_templates_list li:last-child,
+.wpb_templates_ul .wpb_templates_list .wpb_no_templates {
+	margin-bottom: 10px;
+}
+
+.vc_navbar li.vc_dropdown .vc_dropdown-menu > li > ul > li {
+	padding: 3px 15px;
+}
+
+
+/* custom webkit scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e5e5e5;
+  border: 1px solid #D8D8D8;
+  border-bottom: 0 none;
+  border-top: 0 none;
+}
+
+::-webkit-scrollbar-track:hover {
+  background-color: #fefefe;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #666666;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #333333;
+  border-radius: 10px;
+}
+
+/* shortcodes */
+
+.wpb-layout-element-button .icon-wpb-price_table,
+.wpb_price-table .wpb_element_wrapper { 
+	background-image: url('../icons/price_table_shortcode_icon.png');
+}
+.wpb-layout-element-button .icon-wpb-price_table {
+	width: 32px !important;
+	height: 32px !important;
+}
+
+.wpb_price-table .wpb_element_wrapper {
+	height: auto !important;
+}
+
+.wpb-layout-element-button .icon-wpb-testimonials,
+.wpb_capital-testimonials .wpb_element_wrapper { 
+	background-image: url('../icons/testimonials_shortcode_icon.png');
+}
+
+.wpb-layout-element-button .icon-wpb-products_carousel,
+.wpb_product_categories_slider .wpb_element_wrapper { 
+	background-image: url('../icons/product-carousel_shortcode_icon.png');
+}
+
+.wpb-layout-element-button .icon-wpb-special-box,
+.wpb_special-box .wpb_element_wrapper { 
+	background-image: url('../icons/special_box_shortcode_icon.png');
+}
+
+.wpb-layout-element-button .icon-wpb-fillping-circle,
+.wpb_vc-flipping-circle .wpb_element_wrapper { 
+	background-image: url('../icons/fillping_circle_shortcode_icon.png');
+}
