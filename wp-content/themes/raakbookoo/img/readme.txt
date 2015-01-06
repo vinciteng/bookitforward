@@ -1,1 +1,0 @@
-Taro sini om semua gambarnya.
