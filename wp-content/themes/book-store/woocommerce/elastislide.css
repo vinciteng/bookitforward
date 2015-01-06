@@ -1,0 +1,86 @@
+/* Elastislide Style */
+.es-carousel-container {position:relative; min-height:272px; margin-bottom:40px;}
+
+.product-thumbnail-image-jc {background:url(images/showcase-frame.jpg); width:355px;height:254px;}
+.es-carousel{
+	overflow:hidden;
+	background: transparent;
+}
+.es-carousel .column {
+	margin:20px 0 0;
+}
+.es-carousel ul{
+	display:none;
+}
+.es-carousel ul li a{
+	display:block;
+	border: none !important;
+	z-index: 10000 !important;
+}
+.es-carousel ul li a img{
+	display:block;
+	border:none !important;
+	max-height:100%;
+	max-width:100%;
+}
+
+.es-carousel .woocarr-meta {
+	padding-top: 5px;
+}
+
+.es-carousel .woocarr-meta p {
+	margin-bottom: 0px !important;
+	padding: 4px 0px;
+	padding-right: 67px;
+}
+
+.es-carousel .woocarr-meta p a {
+	color: #303740;
+	text-decoration: none;
+}
+
+.es-carousel .woocarr-meta .price
+{
+	display: block;
+	width: 60px;
+	height: 60px;
+	background-color: #b73827;
+	position: absolute;
+	top: -62px;
+	right: 5px;
+	text-align: center;
+	line-height: 60px;
+	-webkit-border-radius: 60px;
+	-moz-border-radius: 60px;
+	border-radius: 60px; 
+	border: 2px solid #8a2315;
+	color: #fff;
+	font-weight: bold;
+	z-index: 9000;
+}
+
+.es-carousel .woocarr-meta .price-wrapper
+{
+	height: 0px;
+	position: relative;
+}
+.es-nav span{
+    background: url("images/nav.png") no-repeat scroll left top transparent;
+    cursor: pointer;
+    height: 38px;
+    left: 31px;
+    margin-top: -13px;
+    opacity: 0.8;
+    position: absolute;
+    text-indent: -9000px;
+    top: 50%;
+    width: 37px;
+}
+.es-nav span.es-nav-next{
+	right:12px;
+	left:auto;
+	background-position:bottom right;
+}
+.es-nav span:hover{
+	opacity:1.0;
+}
