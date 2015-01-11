@@ -1,0 +1,52 @@
+.shortcodes-list li {
+	display: inline-block;
+	margin: 0 12px 12px 0;
+	float: left;
+}
+
+.shortcodes-list li.last {
+	margin-right: 0;
+}
+
+a.insert-shortcode, a.insert-shortcode:visited {
+	color: #fefefe !important;
+}
+
+.shortcode-labels {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.shortcode-text-inputs {
+	background: #fefefe;
+	border: 1px solid #cccccc;
+	border-radius: 0 !important;
+	width: 260px;
+	padding: 8px;
+	margin-bottom: 15px;
+}
+
+.shortcode-text-textarea {
+	background: #fefefe;
+	border: 1px solid #cccccc;
+	border-radius: 0 !important;
+	width: 370px;
+	padding: 8px;
+	margin-bottom: 15px;
+}
+
+#TB_ajaxContent h3 {
+	margin-bottom: 15px !important;
+}
+
+select {
+	margin-bottom: 15px;
+}
+
+#select-column-size {
+	width: 370px;
+}
+
+#popup_container h2 {
+	margin-top: 0 !important;
+}

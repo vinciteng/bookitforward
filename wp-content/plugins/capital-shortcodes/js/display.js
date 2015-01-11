@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){"use strict";$('<div class="clear"></div>').insertAfter('[class*="-last-column"]');$(".capital-tabs").tabs();$(".accordion-shortcode").accordion({collapsible:true,heightStyle:"content",active:false,icons:{"header":"ub-icon-plus4","activeHeader":"ub-icon-minus5"}});});

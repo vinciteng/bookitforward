@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Capital ShorCodes 2.0\n"
+"POT-Creation-Date: 2013-08-20 22:22+0330\n"
+"PO-Revision-Date: 2013-08-20 22:22+0330\n"
+"Last-Translator: CapitalH <capitalh.ir@gmail.com>\n"
+"Language-Team: CapitalH.ir\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcodes.php:31
+msgid "Your Name"
+msgstr ""
+
+#: shortcodes.php:32
+msgid "Your E-mail Address"
+msgstr ""
+
+#: shortcodes.php:33
+msgid "Subject"
+msgstr ""
+
+#: shortcodes.php:34
+msgid "Your Message"
+msgstr ""
+
+#: shortcodes.php:35
+msgid "Submit"
+msgstr ""
+
+#: shortcodes.php:37
+msgid "Please fill in all the required fields."
+msgstr ""
+
+#: shortcodes.php:38
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: shortcodes.php:39
+msgid "Thanks for your e-mail! We'll get back to you as soon as we can."
+msgstr ""
+
+#: shortcodes.php:932 shortcodes.php:934
+msgid "No Thumbnails"
+msgstr ""
+
+#: shortcodes.php:932
+msgid "View Project"
+msgstr ""
