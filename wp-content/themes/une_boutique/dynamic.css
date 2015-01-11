@@ -1,0 +1,51 @@
+/* BEGIN custom_css */
+#page,
+#page .vc_text_separator div {
+
+}
+
+body {
+
+background: repeat;
+}
+
+a {
+
+}
+
+section#toolbar {
+
+}
+
+#site-branding,
+.header-style-v2 #site-branding,
+.header-style-v3 #site-branding,
+.header-style-v2 .the-search-form .column {
+
+}
+
+.default-header-style #site-navigation,
+.default-header-style .the-search-form .column {
+
+}
+
+#site-navigation li a {
+
+}
+
+.page-info-wrapper {
+
+}
+
+.woocommerce div.product div.single-product-entry-wrapper, .woocommerce-page div.product div.single-product-entry-wrapper, .woocommerce #content div.product div.single-product-entry-wrapper, .woocommerce-page #content div.product div.single-product-entry-wrapper {
+
+}
+
+#footer-light {
+
+}
+
+#footer-dark {
+
+}
+/* END custom_css */

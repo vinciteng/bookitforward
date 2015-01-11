@@ -1,0 +1,121 @@
+/*Green color preset #5AA855 */
+
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woo-mini-cart-container .cart-count,
+#site-navigation ul.main-menu li.new:after {
+	background: #5AA855 !important;
+}
+
+a {
+	color: #5AA855;
+}
+
+a:hover {
+	color: #757575;
+}
+
+#secondary li a:hover,
+.wpb_widgetised_column li a:hover,
+.woocommerce ul.cart_list li a:hover,
+.woocommerce-page ul.cart_list li a:hover,
+.woocommerce ul.product_list_widget li a:hover,
+.woocommerce-page ul.product_list_widget li a:hover {
+	color: #5AA855;
+}
+
+button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	color: #fefefe;
+	background: #5AA855;
+	background-image: -moz-linear-gradient(top, #5aa855 0%, #47a341 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5AA855), color-stop(100%,#47A341));
+	background-image: -webkit-linear-gradient(top, #5AA855 0%,#47A341 100%);
+	background-image: -o-linear-gradient(top, #5aa855 0%,#47a341 100%);
+	background-image: -ms-linear-gradient(top, #5aa855 0%,#47a341 100%);
+	background-image: linear-gradient(to bottom, #5AA855 0%,#47A341 100%);
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}
+
+button:hover,.button:hover,
+html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+	background: #5AA855;
+	color: #fefefe;
+}
+
+.add_to_wishlist {
+	background-color: #F5F5F5;
+	background-image: -moz-linear-gradient(top, #f5f5f5 0%, #ededed 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F5F5F5), color-stop(100%,#EDEDED));
+	background-image: -webkit-linear-gradient(top, #F5F5F5 0%,#EDEDED 100%);
+	background-image: -o-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: -ms-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: linear-gradient(to bottom, #F5F5F5 0%,#EDEDED 100%);
+	border: 1px solid #D3D3D3;
+	color: #252525;
+	font-size: 13px;
+	text-shadow: none;
+}
+
+.add_to_wishlist:hover {
+	background-color: #F5F5F5;
+	color: #252525;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #5AA855;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus {
+	background: #73D46D;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce-page .widget_layered_nav ul li.chosen a {
+	border: 1px solid #73D46D;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	background: #5AA855;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a:hover,
+.woocommerce-page .widget_layered_nav ul li.chosen a:hover {
+	background: #73D46D;
+}
+
+/* forum colors */
+
+div.bbp-template-notice.info {
+	background-color: #6FB269;
+}
+
+#bbpress-forums .forum-topic-info i,
+#bbpress-forums .bbp-pagination .tags-icon {
+	background: #6FB269;
+	border: 1px solid #6FB269;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}
+
+.bbp-forum-header a.bbp-forum-permalink,
+.bbp-topic-header a.bbp-topic-permalink,
+.bbp-reply-header a.bbp-reply-permalink {
+	background: rgba(111, 178, 105, 0.35);
+}
+
+.bbp-forum-header a.bbp-forum-permalink:hover,
+.bbp-topic-header a.bbp-topic-permalink:hover,
+.bbp-reply-header a.bbp-reply-permalink:hover {
+	background: rgba(111, 178, 105, 1);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count > li a:after {
+	background: rgba(111, 178, 105, 0.75);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a,
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a:after,
+#bbpress-forums .bbp-forum-info-title .single-count li ul li.bbp-forum-reply-count-dropdown a {
+	background-color: #6FB269;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}

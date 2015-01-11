@@ -1,0 +1,106 @@
+/* custom webkit scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e5e5e5;
+  border: 1px solid #D8D8D8;
+  border-bottom: 0 none;
+  border-top: 0 none;
+}
+
+::-webkit-scrollbar-track:hover {
+  background-color: #fefefe;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(102, 102, 102, 0.5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #333333;
+  border-radius: 10px;
+}
+
+/* Customizing OptioTree (theme options) panel */
+
+#option-tree-header {
+	background: #464646;
+	padding: 15px;
+	color: #CCC;
+	display: block;
+	margin: 11px 5px 0 2px;
+	min-width: 535px;
+	overflow: hidden;
+	position: relative;
+	background-image: -webkit-linear-gradient(bottom, #373737, #464646 5px);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	-webkit-border-radius: 4px 4px 0 0;
+	-khtml-border-radius: 4px 4px 0 0;
+	-moz-border-radius: 4px 4px 0 0;
+	-o-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+}
+
+.option-tree-save-layout {
+	padding: 41px 0 0 0 !important;
+}
+
+#option-tree-header li a {
+	color: transparent !important;
+}
+
+#adminmenu #toplevel_page_ot-settings .menu-icon-generic div.wp-menu-image:before,
+#option-tree-header #option-tree-logo a:before {
+	color: #ccc !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav {
+	width: 200px !important;
+}
+
+#option-tree-settings-api .ui-tabs {
+	background: #F1F1F1 !important;
+	border: 1px solid #CCC !important;
+	border-top: none  !important;
+	margin: 0px 5px 0 2px !important;
+	min-width: 533px !important;
+}
+
+#option-tree-settings-api .postbox {
+	background: #FFF !important;
+	border: none !important;
+	margin: 0 !important;
+	padding: 20px !important;
+	border-radius: 0 0 3px 0 !important;
+	border-left: 1px solid #CCC !important;
+	min-height: 600px !important;
+}
+
+#option-tree-settings-api .ui-tabs {
+	padding-bottom: 0 !important;
+}
+
+#wpbody-content .metabox-holder {
+	padding-top: 0 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li.ui-state-active {
+	background: #FFF !important;
+	border-color: #CCC !important;
+	color: #000 !important;
+	margin-right: -1px !important;
+	position: relative !important;
+	z-index: 9 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a {
+	color: #21759B !important;
+	display: block !important;
+	line-height: 15px !important;
+	padding: 15px !important;
+	text-decoration: none !important;
+}

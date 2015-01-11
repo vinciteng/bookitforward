@@ -1,0 +1,110 @@
+/*Navy color preset #2D5C88 */
+
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woo-mini-cart-container .cart-count,
+#site-navigation ul.main-menu li.new:after {
+	background: #2D5C88 !important;
+}
+
+a {
+	color: #2D5C88;
+}
+
+a:hover {
+	color: #757575;
+}
+
+#secondary li a:hover,
+.wpb_widgetised_column li a:hover,
+.woocommerce ul.cart_list li a:hover,
+.woocommerce-page ul.cart_list li a:hover,
+.woocommerce ul.product_list_widget li a:hover,
+.woocommerce-page ul.product_list_widget li a:hover {
+	color: #2D5C88;
+}
+
+button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	background: #2D5C88; /* Old browsers */
+	background-image: -moz-linear-gradient(top,  #527496 0%, #2d5c88 100%); /* FF3.6+ */
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#527496), color-stop(100%,#2d5c88)); /* Chrome,Safari4+ */
+	background-image: -webkit-linear-gradient(top,  #527496 0%,#2d5c88 100%); /* Chrome10+,Safari5.1+ */
+	background-image: -o-linear-gradient(top,  #527496 0%,#2d5c88 100%); /* Opera 11.10+ */
+	background-image: -ms-linear-gradient(top,  #527496 0%,#2d5c88 100%); /* IE10+ */
+	background-image: linear-gradient(to bottom,  #527496 0%,#2d5c88 100%); /* W3C */
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	color: #FEFEFE;
+}
+
+button:hover,.button:hover,
+html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+	background: #2D5C88;
+	color: #fefefe;
+}
+
+.add_to_wishlist {
+	background-color: #F5F5F5;
+	background-image: -moz-linear-gradient(top, #f5f5f5 0%, #ededed 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F5F5F5), color-stop(100%,#EDEDED));
+	background-image: -webkit-linear-gradient(top, #F5F5F5 0%,#EDEDED 100%);
+	background-image: -o-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: -ms-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: linear-gradient(to bottom, #F5F5F5 0%,#EDEDED 100%);
+	border: 1px solid #D3D3D3;
+	color: #252525;
+	font-size: 13px;
+	text-shadow: none;
+}
+
+.add_to_wishlist:hover {
+	background-color: #F5F5F5;
+	color: #252525;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #2D5C88;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus {
+	background: #5C8AB6;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce-page .widget_layered_nav ul li.chosen a {
+	border: 1px solid #555;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	background: #2D5C88;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a:hover,
+.woocommerce-page .widget_layered_nav ul li.chosen a:hover {
+	background: #5C8AB6;
+}
+
+/* forum colors */
+
+.bbp-forum-header a.bbp-forum-permalink,
+.bbp-topic-header a.bbp-topic-permalink,
+.bbp-reply-header a.bbp-reply-permalink {
+	background: rgba(175, 223, 238, 0.35);
+}
+
+.bbp-forum-header a.bbp-forum-permalink:hover,
+.bbp-topic-header a.bbp-topic-permalink:hover,
+.bbp-reply-header a.bbp-reply-permalink:hover {
+	background: rgba(175, 223, 238, 1);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count > li a:after {
+	background: rgba(175, 223, 238, 0.75);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a,
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a:after,
+#bbpress-forums .bbp-forum-info-title .single-count li ul li.bbp-forum-reply-count-dropdown a {
+	background-color: #2D5C88;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}

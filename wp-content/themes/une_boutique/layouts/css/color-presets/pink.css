@@ -1,0 +1,125 @@
+/*Pink color preset #DA68A3 */
+
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woo-mini-cart-container .cart-count,
+#site-navigation ul.main-menu li.new:after {
+	background: #DA68A3 !important;
+}
+
+a {
+	color: #DA68A3;
+}
+
+a:hover {
+	color: #757575;
+}
+
+#secondary li a:hover,
+.wpb_widgetised_column li a:hover,
+.woocommerce ul.cart_list li a:hover,
+.woocommerce-page ul.cart_list li a:hover,
+.woocommerce ul.product_list_widget li a:hover,
+.woocommerce-page ul.product_list_widget li a:hover {
+	color: #DA68A3;
+}
+
+button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	color: #fefefe;
+	background: #DA68A3; /* Old browsers */
+	background-image: -moz-linear-gradient(top,  #d886b0 0%, #da68a3 100%); /* FF3.6+ */
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d886b0), color-stop(100%,#da68a3)); /* Chrome,Safari4+ */
+	background-image: -webkit-linear-gradient(top,  #d886b0 0%,#da68a3 100%); /* Chrome10+,Safari5.1+ */
+	background-image: -o-linear-gradient(top,  #d886b0 0%,#da68a3 100%); /* Opera 11.10+ */
+	background-image: -ms-linear-gradient(top,  #d886b0 0%,#da68a3 100%); /* IE10+ */
+	background-image: linear-gradient(to bottom,  #d886b0 0%,#da68a3 100%); /* W3C */
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}
+
+button:hover,.button:hover,
+html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+	background: #DA68A3;
+	color: #fefefe;
+}
+
+.add_to_wishlist {
+	background-color: #F5F5F5;
+	background-image: -moz-linear-gradient(top, #f5f5f5 0%, #ededed 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F5F5F5), color-stop(100%,#EDEDED));
+	background-image: -webkit-linear-gradient(top, #F5F5F5 0%,#EDEDED 100%);
+	background-image: -o-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: -ms-linear-gradient(top, #f5f5f5 0%,#ededed 100%);
+	background-image: linear-gradient(to bottom, #F5F5F5 0%,#EDEDED 100%);
+	border: 1px solid #D3D3D3;
+	color: #252525;
+	font-size: 13px;
+	text-shadow: none;
+}
+
+.add_to_wishlist:hover {
+	background-color: #F5F5F5;
+	color: #252525;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #DA68A3;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle.ui-state-focus {
+	background: #EC90C0;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce-page .widget_layered_nav ul li.chosen a {
+	border: 1px solid #555;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+	background: #DA68A3;
+}
+
+.woocommerce .widget_layered_nav ul li.chosen a:hover,
+.woocommerce-page .widget_layered_nav ul li.chosen a:hover,
+.woocommerce .widget_layered_nav_filters ul li a:hover,
+.woocommerce-page .widget_layered_nav_filters ul li a:hover {
+	background: #DA68A3;
+}
+
+/* forum colors */
+
+div.bbp-template-notice.info {
+	background-color: #DA68A3;
+	color: #fefefe;
+}
+
+#bbpress-forums .forum-topic-info i,
+#bbpress-forums .bbp-pagination .tags-icon {
+	background: #DA68A3;
+	color: #fefefe;
+	border: 1px solid #555;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}
+
+.bbp-forum-header a.bbp-forum-permalink,
+.bbp-topic-header a.bbp-topic-permalink,
+.bbp-reply-header a.bbp-reply-permalink {
+	background: rgba(218, 104, 163, 0.35);
+}
+
+.bbp-forum-header a.bbp-forum-permalink:hover,
+.bbp-topic-header a.bbp-topic-permalink:hover,
+.bbp-reply-header a.bbp-reply-permalink:hover {
+	background: rgba(218, 104, 163, 1);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count > li a:after {
+	background: rgba(218, 104, 163, 0.75);
+}
+
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a,
+#bbpress-forums .bbp-forum-info-title .single-count:hover > li a:after,
+#bbpress-forums .bbp-forum-info-title .single-count li ul li.bbp-forum-reply-count-dropdown a {
+	background-color: #DA68A3;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+}

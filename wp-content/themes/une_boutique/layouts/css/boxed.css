@@ -1,0 +1,10 @@
+/* a tiny stylesheet added when you select boxed layout on theme options. */
+
+#main {	
+	background: #F7F7F7;
+}
+
+#page {
+	max-width: 1080px;
+	margin: 0 auto;
+}

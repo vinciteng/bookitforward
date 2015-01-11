@@ -1,0 +1,749 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: verde-plugin\n"
+"POT-Creation-Date: 2014-02-11 15:48+0100\n"
+"PO-Revision-Date: 2014-02-11 15:48+0100\n"
+"Last-Translator: CreaboxThemes <admin@creabox.es>\n"
+"Language-Team: CreaboxThemes <admin@creabox.es>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../framework/framework.php:439
+msgid ""
+"<span class=\"fw-message-success fade\">Settings Updated Successfully!</span>"
+msgstr ""
+"<span class=\"fw-message-success fade\">Cambios guardados correctamente!</"
+"span>"
+
+#: ../framework/framework.php:531
+msgid "Please Select"
+msgstr "Selecciona por favor"
+
+#: ../framework/framework.php:591
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: ../framework/framework.php:643
+msgid "Save Settings"
+msgstr "Guardar"
+
+#: ../framework/framework.php:655
+msgid "Export a csv file with the subscribed email:"
+msgstr "Exporta un archivo csv con los emails suscritos:"
+
+#: ../framework/framework.php:656
+msgid "Export emails"
+msgstr "Exportar emails"
+
+#: ../framework/framework.php:684
+msgid ""
+"<span class=\"fw-message-success\">Uninstall complete, You can de-activate "
+"this product now.</span>"
+msgstr ""
+"<span class=\"fw-message-success\">Desinstalación completa. Puede volver a "
+"instalar el plugin ahora.</span>"
+
+#: ../framework/framework.php:702 ../framework/framework.php:715
+msgid "Re-Install"
+msgstr "Instalar de nuevo"
+
+#: ../framework/framework.php:709
+msgid "Click Re-Install to activate"
+msgstr "Pulsa para instalar de nuevo"
+
+#: ../framework/framework.php:716 ../framework/framework.php:740
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../framework/framework.php:728 ../framework/framework.php:739
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../framework/framework.php:734
+msgid "Are you sure? This will remove all saved settings."
+msgstr "¿Seguro? Se borrarán los cambios realizados"
+
+#: ../framework/tranlations.php:3
+msgid "Configuration"
+msgstr "Configuración"
+
+#: ../framework/tranlations.php:4
+msgid "Enable or Disable Verde Coming Soon Template."
+msgstr "Activar o desactivar Verde Coming Soon Template."
+
+#: ../framework/tranlations.php:5
+msgid "Enable"
+msgstr "Activar"
+
+#: ../framework/tranlations.php:6
+msgid "Disable"
+msgstr "Desactivar"
+
+#: ../framework/tranlations.php:7
+msgid "Product Information"
+msgstr "Información del producto"
+
+#: ../framework/tranlations.php:8
+msgid "Product Type"
+msgstr "Tipo producto"
+
+#: ../framework/tranlations.php:9
+msgid "Product Name"
+msgstr "Nombre del plugin"
+
+#: ../framework/tranlations.php:10
+msgid "Product Version"
+msgstr "Version"
+
+#: ../framework/tranlations.php:11 ../framework/tranlations.php:16
+msgid "Help &amp; Support"
+msgstr "Ayuda &amp; Soporte"
+
+#: ../framework/tranlations.php:12
+msgid ""
+"<a  target=\"_blank\" href=\"mailto:admin@creabox.es\" title=\"\">Contact "
+"Us</a>"
+msgstr ""
+"<a  target=\"_blank\" href=\"mailto:admin@creabox.es\" title=\"\">Contacto</"
+"a>"
+
+#: ../framework/tranlations.php:13
+msgid "Access the site front-end"
+msgstr "Acceder a la web principal"
+
+#: ../framework/tranlations.php:14
+msgid ""
+"Select if the users (while they are making changes in the web) can access "
+"the site front-end when the the coming soon page is enabled."
+msgstr ""
+"Selecciona si los usuarios (mientras están editando la web) pueden acceder a "
+"la web principal cuando el plugin está activo."
+
+#: ../framework/tranlations.php:15
+msgid "Modules"
+msgstr "Módulos"
+
+#: ../framework/tranlations.php:17
+msgid "Custom Message Intro"
+msgstr "Mensaje intro"
+
+#: ../framework/tranlations.php:18
+msgid "Custom Message Contact"
+msgstr "Mensaje de contacto"
+
+#: ../framework/tranlations.php:19 ../framework/tranlations.php:64
+msgid "Countdown Timer"
+msgstr "Cuenta atrás"
+
+#: ../framework/tranlations.php:20
+msgid "Subscription Form"
+msgstr "Formulario de suscripción"
+
+#: ../framework/tranlations.php:21
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: ../framework/tranlations.php:22
+msgid "Social Media Icons"
+msgstr "Iconos redes sociales"
+
+#: ../framework/tranlations.php:23
+msgid "Text Effects"
+msgstr "Efectos de texto"
+
+#: ../framework/tranlations.php:24
+msgid "Choose the text effects. Default: style1"
+msgstr "Elige el efecto de texto. Por defecto: style1"
+
+#: ../framework/tranlations.php:25
+msgid "Typography"
+msgstr "Tipografía"
+
+#: ../framework/tranlations.php:26
+msgid "Choose the typography from Google Fonts"
+msgstr "Elige la tipografía de Google Fonts"
+
+#: ../framework/tranlations.php:27
+msgid "Custom Color Scheme"
+msgstr "Color principal"
+
+#: ../framework/tranlations.php:28
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../framework/tranlations.php:29
+msgid "Choose a custom color for background"
+msgstr "Elige un color para el fondo"
+
+#: ../framework/tranlations.php:30
+msgid "Main Color"
+msgstr "Color principal"
+
+#: ../framework/tranlations.php:31
+msgid "Choose the main color"
+msgstr "Elige el color principal"
+
+#: ../framework/tranlations.php:32
+msgid "Logo Type"
+msgstr "Tipo de logo"
+
+#: ../framework/tranlations.php:33
+msgid "Select if you want to show the logo as Text or Image"
+msgstr "Selecciona si quieres mostrar el logo como texto o imagen"
+
+#: ../framework/tranlations.php:34
+msgid "Text"
+msgstr "Texto"
+
+#: ../framework/tranlations.php:35
+msgid "Image"
+msgstr "Imagen"
+
+#: ../framework/tranlations.php:36
+msgid "Logo Text"
+msgstr "Texto del logo"
+
+#: ../framework/tranlations.php:37
+msgid "Type the text to be displayed as logo"
+msgstr "Elige el texto que mostrará el logo"
+
+#: ../framework/tranlations.php:38
+msgid "Logo Image"
+msgstr "Imagen logo"
+
+#: ../framework/tranlations.php:39
+msgid "Upload the logo image (PNG file recommended with 85px height)"
+msgstr ""
+"Sube la imagen para el logo (Recomendado un archivo PNG con 85px de altura)"
+
+#: ../framework/tranlations.php:40
+msgid "Background"
+msgstr "Fondo"
+
+#: ../framework/tranlations.php:41
+msgid "Background Type"
+msgstr "Tipo de fondo"
+
+#: ../framework/tranlations.php:42
+msgid "Images"
+msgstr "Imágenes"
+
+#: ../framework/tranlations.php:43
+msgid "Video"
+msgstr "Video"
+
+#: ../framework/tranlations.php:44
+msgid "Abstract"
+msgstr "Abstracto"
+
+#: ../framework/tranlations.php:45
+msgid "Image 1"
+msgstr "Imagen 1"
+
+#: ../framework/tranlations.php:46
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: ../framework/tranlations.php:47
+msgid "Image 3"
+msgstr "Imagen 3"
+
+#: ../framework/tranlations.php:48
+msgid "Upload the image 1"
+msgstr "Subir la imagen 1"
+
+#: ../framework/tranlations.php:49
+msgid "Upload the image 2"
+msgstr "Subir la imagen 2"
+
+#: ../framework/tranlations.php:50
+msgid "Upload the image 3"
+msgstr "Subir la imagen 3"
+
+#: ../framework/tranlations.php:51
+msgid "Video Type"
+msgstr "Tipo de video"
+
+#: ../framework/tranlations.php:52
+msgid "Choose the video source"
+msgstr "Elige la fuente del video"
+
+#: ../framework/tranlations.php:53
+msgid "Your own video"
+msgstr "Video propio"
+
+#: ../framework/tranlations.php:54
+msgid "Video from Youtube or Vimeo"
+msgstr "Video de Youtube o Vimeo"
+
+#: ../framework/tranlations.php:55
+msgid "Upload the video file"
+msgstr "Subir el archivo de video"
+
+#: ../framework/tranlations.php:56
+msgid "Abstract background color"
+msgstr "Color para el fondo abstracto"
+
+#: ../framework/tranlations.php:57
+msgid "Choose the color for the abstract background"
+msgstr "Elige el color para el fondo abstracto"
+
+#: ../framework/tranlations.php:58
+msgid "Choose the background"
+msgstr "Elige el fondo"
+
+#: ../framework/tranlations.php:59
+msgid "None"
+msgstr "Ninguno"
+
+#: ../framework/tranlations.php:60
+msgid "Text home"
+msgstr "Texto home"
+
+#: ../framework/tranlations.php:61
+msgid "Page Content"
+msgstr "Contenido página"
+
+#: ../framework/tranlations.php:62
+msgid "Page Title Contact"
+msgstr "Título de contenido de la página"
+
+#: ../framework/tranlations.php:63
+msgid "Text contact"
+msgstr "Texto de contacto"
+
+#: ../framework/tranlations.php:65
+msgid "Launch Date"
+msgstr "Cuenta atrás"
+
+#: ../framework/tranlations.php:66
+msgid "Specify the date for the site to be launched"
+msgstr "Especifica la fecha para la cuenta atrás"
+
+#: ../framework/tranlations.php:67
+msgid "Email Subscriptions"
+msgstr "Email de suscripción"
+
+#: ../framework/tranlations.php:68
+msgid "Email Subscriptions Type"
+msgstr "Tipo de formulario de suscripción"
+
+#: ../framework/tranlations.php:69
+msgid "Choose where you want to saved the subscribed emails"
+msgstr "Elige donde quieres guardar los emails suscritos"
+
+#: ../framework/tranlations.php:70
+msgid "Wordpress database"
+msgstr "Base de datos de Wordpress"
+
+#: ../framework/tranlations.php:71
+msgid "Mailchimp form"
+msgstr "Formulario de Mailchimp"
+
+#: ../framework/tranlations.php:72
+msgid "Mailchimp embedded form"
+msgstr "Código del formulario de Mailchimp"
+
+#: ../framework/tranlations.php:73
+msgid "Enter your Mailchimp url form"
+msgstr "Inserta tu url del formulario de Mailchimp"
+
+#: ../framework/tranlations.php:74
+msgid "Direction"
+msgstr "Dirección"
+
+#: ../framework/tranlations.php:75
+msgid ""
+"Enter your direction for Google Maps. Ex: Paseo de la Castellana, 1, 28046, "
+"Madrid"
+msgstr ""
+"Inserta tu dirección de Google Maps. Ej: Paseo de la Castellana, 1, 28046, "
+"Madrid"
+
+#: ../framework/tranlations.php:76
+msgid "Contact"
+msgstr "Contacto"
+
+#: ../framework/tranlations.php:77
+msgid "Email Address"
+msgstr "Dirección de email"
+
+#: ../framework/tranlations.php:78
+msgid "Enter your email address to be used for the contact form"
+msgstr ""
+"Inserta la dirección de email que se utilice para el formulario de contacto"
+
+#: ../framework/tranlations.php:79
+msgid "Favicon Image"
+msgstr "Imagen de favicon"
+
+#: ../framework/tranlations.php:80
+msgid "Upload the favicon image (size 16x16 px)"
+msgstr "Subir la imagen para el favicon (tamaño 16x16 px)"
+
+#: ../framework/tranlations.php:81
+msgid "Pattern"
+msgstr "Motivo"
+
+#: ../framework/tranlations.php:82
+msgid "Show the pattern over the background"
+msgstr "Mostrar el motivo encima del fondo"
+
+#: ../framework/tranlations.php:83
+msgid "Social Profiles"
+msgstr "Perfiles sociales"
+
+#: ../framework/tranlations.php:84
+msgid "Type your facebook profile url. Ex: www.facebook.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de facebook. Ej: www.facebook.com/"
+"username"
+
+#: ../framework/tranlations.php:85
+msgid "Type your twitter profile url. Ex: twitter.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de twitter.  Ej: twitter.com/username"
+
+#: ../framework/tranlations.php:86
+msgid "Type your behance profile url. Ex: www.behance.net/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de behance. Ej: www.behance.net/"
+"username"
+
+#: ../framework/tranlations.php:87
+msgid "Type your blogger profile url. Ex: www.blogger.com/profile/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de blogger. Ej: www.blogger.com/"
+"profile/username"
+
+#: ../framework/tranlations.php:88
+msgid "Type your delicious profile url. Ex: delicious.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de delicious.  Ej: delicious.com/"
+"username"
+
+#: ../framework/tranlations.php:89
+msgid "Type your deviantart profile url. Ex: http://username.deviantart.com/"
+msgstr ""
+"Escribe la url de tu perfil de usuario de deviantart. Ej: http://username."
+"deviantart.com/"
+
+#: ../framework/tranlations.php:90
+msgid "Type your digg profile url. Ex: digg.com/username"
+msgstr "Escribe la url de tu perfil de usuario de  digg. Ej: digg.com/username"
+
+#: ../framework/tranlations.php:91
+msgid "Type your dribbble profile url. Ex: dribbble.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de  dribbble. Ej: dribbble.com/"
+"username"
+
+#: ../framework/tranlations.php:92
+msgid "Type your dropbox profile url. Ex: www.dropbox.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de  dropbox. Ej: www.dropbox.com/"
+"username"
+
+#: ../framework/tranlations.php:93
+msgid "Type your flickr profile url. Ex: www.flickr.com/photos/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de flickr. Ej: www.flickr.com/photos/"
+"username"
+
+#: ../framework/tranlations.php:94
+msgid "Type your github profile url. Ex: github.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de github. Ej: github.com/username"
+
+#: ../framework/tranlations.php:95
+msgid "Type your google plus profile url. Ex: plus.google.com/username/posts"
+msgstr ""
+"Escribe la url de tu perfil de usuario de google plus. Ej: plus.google.com/"
+"username/posts"
+
+#: ../framework/tranlations.php:96
+msgid "Type your hi5 profile url. Ex: www.hi5.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de hi5. Ej: www.hi5.com/username"
+
+#: ../framework/tranlations.php:97
+msgid ""
+"Type your instagram profile profile url. Ex: http://instagram.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de instagram. Ej: http://instagram."
+"com/username"
+
+#: ../framework/tranlations.php:98
+msgid "Type your lastfm profile url. Ex: www.lastfm.es/user/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de lastfm. Ej: www.lastfm.es/user/"
+"username"
+
+#: ../framework/tranlations.php:99
+msgid ""
+"Type your linkedin profile url. Ex: www.linkedin.com/profile/view?id=username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de linkedin. Ej: www.linkedin.com/"
+"profile/view?id=username"
+
+#: ../framework/tranlations.php:100
+msgid "Type your pinterest profile url. Ex: www.pinterest.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de pinterest. Ej: www.pinterest.com/"
+"username"
+
+#: ../framework/tranlations.php:101
+msgid "Type your reddit profile profile url. Ex: www.reddit.com/user/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de reddit. Ej: www.reddit.com/user/"
+"username"
+
+#: ../framework/tranlations.php:102
+msgid "Type your rss profile url"
+msgstr "Escribe la url de tu perfil de usuario de rss."
+
+#: ../framework/tranlations.php:103
+msgid "Type your skype profile url. Ex: skype:username?call"
+msgstr ""
+"Escribe la url de tu perfil de usuario de skype. Ej: skype:username?call"
+
+#: ../framework/tranlations.php:104
+msgid ""
+"Type your stumbleupon profile url. Ex: http://www.stumbleupon.com/stumbler/"
+"username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de stumbleupon. Ej: http://www."
+"stumbleupon.com/stumbler/username"
+
+#: ../framework/tranlations.php:105
+msgid "Type your tumblr profile url. Ex: http://username.tumblr.com/"
+msgstr ""
+"Escribe la url de tu perfil de usuario de tumblr. Ej: http://username.tumblr."
+"com/"
+
+#: ../framework/tranlations.php:106
+msgid "Type your vimeo profile url. Ex: http://vimeo.com/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de vimeo. Ej: http://vimeo.com/"
+"username"
+
+#: ../framework/tranlations.php:107
+msgid "Type your wordpress profile url. Ex: http://website_name.wordpress.com/"
+msgstr ""
+"Escribe la url de tu perfil de usuario de wordpress. Ej: http://website_name."
+"wordpress.com/"
+
+#: ../framework/tranlations.php:108
+msgid "Type your youtube profile url. Ex: http://www.youtube.com/user/username"
+msgstr ""
+"Escribe la url de tu perfil de usuario de youtube. Ej: http://www.youtube."
+"com/user/username"
+
+#: ../framework/tranlations.php:109
+msgid "Video Sound"
+msgstr "Sonido del video"
+
+#: ../framework/tranlations.php:110
+msgid "Enable the sound or not"
+msgstr "Activar el sonido o no"
+
+#: ../framework/tranlations.php:111
+msgid "Copy the Google Analytics code"
+msgstr "Copia el código de Google Analytics"
+
+#: ../framework/tranlations.php:112
+msgid "Type the text to the meta title"
+msgstr "Elige el texto para el título de la página"
+
+#: ../framework/tranlations.php:113
+msgid "Type the text to the meta keywords"
+msgstr "Elige el texto para las palabras clave"
+
+#: ../framework/tranlations.php:114
+msgid "Type the text to the meta description"
+msgstr "Elige el texto para los meta descripción"
+
+#: ../framework/tranlations.php:115
+msgid "Video (own)"
+msgstr "Video (propio)"
+
+#: ../framework/tranlations.php:116
+msgid "Copy the ID video from Youtube"
+msgstr "Copia el ID del video de Youtube"
+
+#: ../framework/tranlations.php:117
+msgid "Background color (none)"
+msgstr "Color de fondo (ninguno)"
+
+#: ../framework/tranlations.php:118
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: ../framework/tranlations.php:119
+msgid "Choose the color for the background when you choose the option 'none'"
+msgstr ""
+"Elige el color para el fondo cuando seleccionas que no aparezca 'ninguno'"
+
+#: ../framework/tranlations.php:120
+msgid "Logo link"
+msgstr "Enlace del logo"
+
+#: ../framework/tranlations.php:121
+msgid "Type the logo link (ex: http://www.link.com)"
+msgstr "Escribe el enlace del logo (ej: http://www.link.com)"
+
+#: ../framework/tranlations.php:122
+msgid "Image Replacement"
+msgstr "Imagen de sustitución"
+
+#: ../framework/tranlations.php:123
+msgid ""
+"Upload the image replacement for mobile and tablets devices in the video "
+"version"
+msgstr ""
+"Sube la imagen de sustitución que se mostrará en dispositivos móviles y "
+"tabletas en la versión de video."
+
+#: ../framework/tranlations.php:124
+msgid "Text subscription"
+msgstr "Texto de suscripción"
+
+#: ../framework/tranlations.php:125
+msgid "Top of the web"
+msgstr "Al principio de la web"
+
+#: ../framework/tranlations.php:126
+msgid "Bottom of the web"
+msgstr "Al final de la web"
+
+#: ../framework/tranlations.php:127
+msgid "Map"
+msgstr "Mapa"
+
+#: ../framework/tranlations.php:128
+msgid "Contact Background"
+msgstr "Fondo de contacto"
+
+#: ../framework/tranlations.php:129
+msgid "Choose the map background, an image or none"
+msgstr "Elige el fondo de mapa, una imagen o ninguno"
+
+#: ../framework/tranlations.php:130
+msgid "Map Direction"
+msgstr "Dirección del mapa"
+
+#: ../framework/tranlations.php:131
+msgid "Image Background"
+msgstr "Imagen de fondo"
+
+#: ../framework/tranlations.php:132
+msgid "Upload the image for the contact background"
+msgstr "Subir la imagen para el fondo de contacto"
+
+#: ../framework/tranlations.php:133
+msgid "Pattern Contact"
+msgstr "Motivo del contacto"
+
+#: ../framework/tranlations.php:134
+msgid "Show the pattern over the contact"
+msgstr "Mostrar el motivo encima del contacto"
+
+#: ../framework/tranlations.php:135
+msgid "Redirect Link"
+msgstr "Link de redirección"
+
+#: ../framework/tranlations.php:136
+msgid "Enable o disable the redirect link"
+msgstr "Activar o desactivar el enlace de redirección"
+
+#: ../framework/tranlations.php:137
+msgid "Type the redirect link"
+msgstr "Escribe la dirección de redirección"
+
+#: ../framework/tranlations.php:138
+msgid ""
+"When an user subscribes by email or fills out the contact form he will be "
+"sent directly to this link. Ex: http://www.AnyWebsiteYouWant.com"
+msgstr ""
+"Cuando un usuario se suscribe por emial o rellena el formulario de contacto, "
+"será redirigido a este link. Ej: http://www.AnyWebsiteYouWant.com"
+
+#: ../framework/tranlations.php:139
+msgid "Language"
+msgstr "Idioma"
+
+#: ../framework/tranlations.php:140
+msgid "Choose the language. Default: English"
+msgstr "Elige el idioma. Por defecto: English"
+
+#: ../framework/tranlations.php:141
+msgid "Choose the link color"
+msgstr "Elige el color de los enlaces"
+
+#: ../framework/tranlations.php:142
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: ../framework/tranlations.php:143
+msgid "Countdown ended"
+msgstr "Cuenta atrás finalizada"
+
+#: ../framework/tranlations.php:144
+msgid "Choose what happens when the countdown is ended"
+msgstr "Elige que sucederá cuando la cuenta atrás finalice"
+
+#: ../framework/tranlations.php:145
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ../framework/tranlations.php:146
+msgid "Show a text"
+msgstr "Mostrar texto"
+
+#: ../framework/tranlations.php:147
+msgid "Countdown text"
+msgstr "Cuenta atrás - texto"
+
+#~ msgid "Contact Form (SMTP server)"
+#~ msgstr "Formulario de contacto (servidor SMTP)"
+
+#~ msgid "Enable the STMP server to send email"
+#~ msgstr "Activar el servidor STMP para envío de emails"
+
+#~ msgid "Type the smtp host"
+#~ msgstr "Escribe el host smtp"
+
+#~ msgid "Type the smtp port"
+#~ msgstr "Escribe el puerto smtp"
+
+#~ msgid "Type the smtp username"
+#~ msgstr "Escribe el usuario smtp"
+
+#~ msgid "Type the smtp password"
+#~ msgstr "Escribe la contraseña smtp"
+
+#~ msgid "Color background (none)"
+#~ msgstr "çc"
+
+#~ msgid ""
+#~ "Click Re-Install to activate this %s or <a href=\"%s\" title="
+#~ "\"\">deactivate</a>."
+#~ msgstr ""
+#~ "Pulsa para solver a installer %s or <a href=\"%s\" title=\"\">deactivate</"
+#~ "a>."
+
+#~ msgid "Enter your email address"
+#~ msgstr "Inserta tu dirección de email"
+
+#~ msgid "Notify Me"
+#~ msgstr "Notificarme"
+
+#~ msgid "Settings Updated Successfully!"
+#~ msgstr "¡Cambios guardados correctamente!"
